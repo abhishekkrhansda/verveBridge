@@ -66,6 +66,10 @@ h1 {
 
 .note {
   display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 400px;
+  gap: 20px;
   justify-content: space-between;
   align-items: center;
   background: #f8f9fa;
